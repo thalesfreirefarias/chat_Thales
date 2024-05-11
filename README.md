@@ -14,15 +14,14 @@
 
 The project is still under development, and the upcoming updates will focus on the following tasks:
 
-- [x] I need to enhance the website's CSS to make it closely resemble Lacrei's Figma design.
+- [x] I need to put more options to ask before start the chat.
 
 
 The following tools were used in the construction of the project:
 
-- [HTML](<https://developer.mozilla.org/pt-BR/docs/Web/HTML/>)
-- [CSS](<https://developer.mozilla.org/pt-BR/docs/Web/CSS/>)
-- [React](<https://react.dev/>)
-- [Typescript](<https://www.typescriptlang.org/>)
+- [Google colab](<https://colab.google/>)
+- [Python](<https://www.python.org/>)
+- [Google AI Studio](<https://aistudio.google.com/>)
 
 
 ## 🤝 Creator
