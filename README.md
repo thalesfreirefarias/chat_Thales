@@ -32,7 +32,7 @@ The following tools were used in the construction of the project:
       <a href="#" title="Thales Farias">
         <img src="IMG_20230429_211838_511.jpg" width="100" alt="Foto do Thales Farias no GitHub"/><br>
         <sub>
-          <b>Thales Farias</b>
+          <b><a href="https://www.linkedin.com/in/thalesfreirefarias/">Thales Farias</b>
         </sub>
       </a>
     </td>
